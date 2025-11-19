@@ -22,7 +22,7 @@ We saw this problem as a **binary classification task** to predict whether a par
 After cleaning and feature engineering, we trained and compared two main models:
 
 ### 1. [Random Forest](https://github.com/Cvboukalis/Sandia-Data-Challenge/blob/main/RandomForest.ipynb)
-### 2. XGBoost
+### 2. [XGBoost](https://github.com/Cvboukalis/Sandia-Data-Challenge/blob/main/XGBoost.ipynb)
 ## Results
 
 We compared the baseline original scrap rate to the best predicted combination of features that each model chose when we searched over combinations of layout, zone, and powder type.
